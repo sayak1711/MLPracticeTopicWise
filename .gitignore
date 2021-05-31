@@ -1,3 +1,5 @@
 .idea
 RNNs/models/*
 RNNs/outputs/*
+todo.txt
+__pycache__
